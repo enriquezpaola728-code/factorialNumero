@@ -11,3 +11,4 @@ function factorial(n) {
 console.log(factorial(5)); // 120
 console.log(factorial(0)); // 1
 console.log(factorial(7)); // 5040
+console.log(factorial(10)); // 5040
